@@ -1,0 +1,9 @@
+[{
+    "title" : "Producto N°1",
+    "description" : "Este es un producto de ejemplo",
+    "price" : 5500,
+    "thumbnail" : "no img",
+    "code" : "AAA111",
+    "stock" : 13,
+    "category": "unica"
+  }]
